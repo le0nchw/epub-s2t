@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p temp
 mkdir -p out
 cd in
